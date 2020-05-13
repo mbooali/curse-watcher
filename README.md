@@ -34,6 +34,9 @@ This service should be left up and running.
 ```python main.py```
 
 ### Docker
+
+Latest images is available here: https://hub.docker.com/r/mbooali/curse-watcher
+
 ```
 docker run --rm \
 -e BOT_TOKEN=your-toke-here \
